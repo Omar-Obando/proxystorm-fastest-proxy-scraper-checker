@@ -127,10 +127,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
+### Donation Methods:
+
+1. **Cryptocurrencies**:
+   - BTC: 1LVjbY28ojy93Y9yuJbAvLNhn1AL3sm3C6
+   - BTC (Beep20): 0xf6db2c26364035562e202c7731cee9622cfb266d
+   - USDT (TRC20): TMf4JE5vmWM5qdgJz7M3A9LpDQHVAXRmP5
+   - USDT(beep20): 0xf6db2c26364035562e202c7731cee9622cfb266d
+
 ## 📞 Contact
 
 - GitHub: [@Omar-Obando](https://github.com/Omar-Obando)
-- Email: [Your Email]
 
 ---
 
@@ -263,12 +270,14 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](L
 
 ¡Las contribuciones son bienvenidas! Por favor lee [CONTRIBUTING.md](CONTRIBUTING.md) para más detalles.
 
+### Donation Methods:
+
+1. **Cryptocurrencies**:
+   - BTC: 1LVjbY28ojy93Y9yuJbAvLNhn1AL3sm3C6
+   - BTC (Beep20): 0xf6db2c26364035562e202c7731cee9622cfb266d
+   - USDT (TRC20): TMf4JE5vmWM5qdgJz7M3A9LpDQHVAXRmP5
+   - USDT(beep20): 0xf6db2c26364035562e202c7731cee9622cfb266d
+
 ## 📞 Contacto
 
 - GitHub: [@Omar-Obando](https://github.com/Omar-Obando)
-- Email: [Tu Email]
-
-## 🙏 Acknowledgments / Agradecimientos
-
-- [TheSpeedX](https://github.com/TheSpeedX) por las listas de proxies
-- Todos los contribuidores y usuarios del proyecto 
